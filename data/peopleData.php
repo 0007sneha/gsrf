@@ -1,0 +1,118 @@
+<?php 
+// include "data/peopleData.php";
+
+
+$membersDataArr = [
+    array(
+        'title' => 'Chairperson',
+        'img' => 'assets/img/people/Janardhan.jpg',
+        'name' => 'Prof. Malapati K Janarthanam',
+        'designation' => 'CHAIRPERSON',
+        'email' => 'chairperson-gsrf@goa.gov.in',
+        'phone' => '7066260027',
+        'status' => 1,
+        'remarks' => '',
+        'direction' => 'in-col',
+    ),
+    array(
+        'title' => 'Managing Director',
+        'img' => 'assets/img/people/Prof Savio P Falleiro.jpg',
+        'name' => 'Prof. Savio P. Falleiro',
+        'designation' => 'MANAGING DIRECTOR',
+        'email' => 'gsrf.md@gmail.com',
+        'phone' => '',
+        'status' => 1,
+        'remarks' => '',
+        'direction' => 'in-col',
+    ),
+    array(
+        'title' => 'Administration (Finance)',
+        'img' => 'assets/img/people/Liza M. Fernandes e Pereira.jpg',
+        'name' => 'Smt. Liza M. Fernandes e Pereira',
+        'designation' => 'JOINT DIRECTOR (Accounts)',
+        'email' => 'pereiraliza1927@gmail.com',
+        'phone' => '9822184113',
+        'status' => 1,
+        'remarks' => '',
+        'direction' => 'in-col',
+    ),
+    array(
+        'img' => 'assets/img/people/Shri. Balkrishna V. Prabhu Dessai.jpeg',
+        'name' => 'Shri. Balkrishna V. Prabhu Dessai',
+        'designation' => 'Accounts Officer',
+        'email' => 'balkrishnaprabhudessai@gmail.com',
+        'phone' => '',
+        'status' => 1,
+        'remarks' => '',
+        'direction' => 'in-col',
+    ),
+    // array(
+    //     'title' => '',
+    //     'img' => '',
+    //     'name' => '',
+    //     'designation' => '',
+    //     'email' => '',
+    //     'phone' => '',
+    //     'status' => 1,
+    //     'remarks' => '',
+    //     'direction' => 'in-row',
+    // ),
+];
+
+$facultyDataArr = [
+    'title' => 'Faculty',
+    'data' => [
+        array(
+            'img' => 'assets/img/people/Manoj.jpeg',
+            'name' => 'Dr Manoj M. Ibrampurkar',
+            'designation' => 'Associate Professor',
+            'email' => 'mmi.gsrf@gmail.com',
+            'phone' => '',
+            'status' => 1,
+            'remarks' => '',
+            'direction' => 'in-col',
+        ),
+        array(
+            'img' => 'assets/img/people/jayada parab.jpg',
+            'name' => 'Jayada Parab',
+            'designation' => 'Assistant Professor',
+            'email' => 'jayada.patnekar@gmail.com',
+            'phone' => '',
+            'status' => 1,
+            'remarks' => '',
+            'direction' => 'in-row',
+        ),
+        array(
+            'img' => 'assets/img/people/Klins Mendes.jpeg',
+            'name' => 'Shri. Klins R. Mendes',
+            'designation' => 'Assistant Professor',
+            'email' => 'klinsmendes007@gmail.com',
+            'phone' => '',
+            'status' => 1,
+            'remarks' => '',
+            'direction' => 'in-row',
+        ),
+        array(
+            'img' => 'assets/img/people/Rowena Mary Almeida.jpg',
+            'name' => 'Rowena Almeida',
+            'designation' => 'Assistant Professor',
+            'email' => 'arowena826@gmail.com',
+            'phone' => '',
+            'status' => 0,
+            'remarks' => '13-Dec-2023, no longer associated with GSRF Office',
+            'direction' => 'in-row',
+        ),
+        // array(
+        //     'img' => 'assets/img/female-avatar.png',
+        //     'name' => 'Details Awaited',
+        //     'designation' => '',
+        //     'email' => '',
+        //     'phone' => '',
+        //     'status' => 1,
+        //     'remarks' => 'to be updated, as data provided',
+        //     'direction' => 'in-row',
+        // ),
+    ],
+];
+
+?>

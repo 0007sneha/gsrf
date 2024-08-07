@@ -1,0 +1,1 @@
+<?php require('../admin_assets/includes/footer.php'); ?>
